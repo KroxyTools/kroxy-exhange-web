@@ -1,0 +1,100 @@
+{
+  "site_name": "Kroxy Exchanger",
+  "contact_url": "https://contact.kroxyio.com",
+  "official_domain": "exchanging.kroxyio.com",
+  "exchange_notice": "Exchange Complete In 24hr | Not Automatic | No Instant Payment",
+  "trust_info": "Kroxy Exchanger is Trusted Exchanging Over 500,000 user trusted",
+  "owner_info": {
+    "name": "Alamin",
+    "origin": "Bangladesh",
+    "role": "Businessmen, Kroxy Company Founder & CEO",
+    "company_status": "Kroxy Is A Biggest Company"
+  },
+  "exchange_data": [
+    {
+      "category": "Bangladesh Exchange List",
+      "rates": [
+        "1$ USD TO 123 BDT",
+        "128.8 BDT TO 1$ USD"
+      ],
+      "send_money": [
+        {
+          "target": "From Bangladesh To India",
+          "rate": "100 BDT TO 71 INR (Fixed)"
+        },
+        {
+          "target": "From Bangladesh To Pakistan",
+          "rate": "100 BDT TO 209.63 PKR (Fixed)"
+        }
+      ],
+      "internal": "BDT TO BDT (0% fees)",
+      "payment_method": "BIKASH",
+      "payment_details": [
+        { "name": "Bikash", "color": "#d12053", "icon": "bikash" }
+      ],
+      "min_exchange": "Minimum Exchange 1$ & 100 BDT"
+    },
+    {
+      "category": "Indian Exchange List",
+      "rates": [
+        "96.5 INR TO 1$ USD",
+        "1$ USD TO 91.5 INR"
+      ],
+      "send_money": [
+        {
+          "target": "From India To Pakistan",
+          "rate": "100 INR TO 279.79 PKR (Fixed)"
+        },
+        {
+          "target": "From India To Bangladesh",
+          "rate": "100 INR TO 128.50 BDT (Fixed)"
+        }
+      ],
+      "payment_details": [
+        { "name": "UPI", "color": "#097939", "icon": "upi" },
+        { "name": "Google Pay", "color": "#4285F4", "icon": "gpay" },
+        { "name": "Paytm", "color": "#002E6E", "icon": "paytm" }
+      ],
+      "min_exchange": "Minimum Exchange 1$ & 100 INR"
+    },
+    {
+      "category": "Crypto Exchange List",
+      "rates": [
+        "Crypto To Crypto",
+        "Any Amount"
+      ],
+      "notes": [
+        {
+          "label": "Exchange Fee",
+          "value": "2% (Fixed)"
+        },
+        {
+          "label": "Important Note",
+          "value": "Fees may depend on amount"
+        }
+      ],
+      "payment_details": [
+        { "name": "Binance", "color": "#F3BA2F" },
+        { "name": "Others", "color": "#8B5CF6" }
+      ],
+      "min_exchange": "Minimum Exchange 1$ USD"
+    }
+  ],
+  "reviews": [
+    {
+      "user": "Ahmed F.",
+      "text": "Best rates and very reliable service. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "user": "Rahul S.",
+      "text": "Smooth process, got my exchange completed within 24 hours as promised.",
+      "rating": 5
+    },
+    {
+      "user": "Zia U.",
+      "text": "Trusted platform for BDT to PKR exchange. Great experience.",
+      "rating": 5
+    }
+  ]
+}
